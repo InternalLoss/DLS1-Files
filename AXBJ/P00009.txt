@@ -1,0 +1,59 @@
+ORDER 0
+
+SOUND V_DRAMA_J
+
+VOICE V_DRAMA_S
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%dorama%'" "random" 0
+
+VOICE V_DRAMA_E

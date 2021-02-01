@@ -1,0 +1,59 @@
+ORDER 0
+
+SOUND V_JPOP_J
+
+VOICE V_JPOP_S
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%potUpusu%'" "random" 0
+
+VOICE V_JPOP_E

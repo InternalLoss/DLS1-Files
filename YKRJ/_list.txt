@@ -1,0 +1,29 @@
+setting_20120625_0000.dlv	VwBpAEYAaQD.WyZiLYqaWw**	v7			1769
+rule20090710.dlr	U5B3UQb-Jf.BeWJr	r3			632
+C_Dracoaves.dlc	yTDpMLMwqDCkMNMwuTA*	c3	23		132
+C_Arcanum.dlc	ojDrMKswyjDgMA**	c3	190		132
+C_Theosophy.dlc	uzCqML0w1TCjMPww	c3	314		132
+book00.dat	TTBuMFMwl1iWaw**	b3			304
+book01.dat	RJLBWDKWoV8*	b3			304
+book02.dat	c1P7MLpr	b3			304
+book03.dat	iTBEMHUwSTA*	b3			304
+book04.dat	aFH9VidZGk8qUd1S	b3			304
+book05.dat	aFH9VidZGk8S-01P	b3			304
+book06.dat	aFH9VidZGk8T-01P	b3			304
+book07.dat	aFH9VidZGk8U-01P	b3			304
+map18.dlm	SABFAFgAQQBQAE8ARAA*	m3	0		618
+map19.dlm	bTBYMG0wWDA*	m3	1		618
+map20.dlm	Kv81-y7-I-80-yn-L-8u-w**	m3	2		4196
+map21.dlm	M-8*	m3	3		578
+map22.dlm	Mf8*	m3	4		4216
+map23.dlm	Ef8Q-2hUdF4*	m3	5		4562
+map24.dlm	LP8h-yT-Of8i-zX-J-8*	m3	6		5171
+map25.dlm	RjBXMHRe	m3	7		5135
+map26.dlm	zFN6dtuYeno5gg**	m3	8		712
+map27.dlm	ojCkMKIw8zDPMPwwyDA*	m3	9		742
+map28.dlm	r2hQWw**	m3	10		614
+map29.dlm	4DD8MPMw2TD8MLkw	m3	11		858
+map30.dlm	BpCxMOswwDD8MA**	m3	12		698
+map31.dlm	sGUnWXiW	m3	13		724
+map32.dlm	jE7DXw**	m3	14		3116
+map33.dlm	wTDnMKQwuTA*	m3	15		4669

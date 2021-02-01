@@ -1,0 +1,42 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=2000
+CardInGame0_002=7351	//	ファントム・オブ・カオス
+CardInGame0_002_Face=1
+CardInGame0_006=4989	//	リビングデッドの呼び声
+CardInGame0_006_Face=0
+CardInGame0_007=5850	//	魂吸収
+CardInGame0_007_Face=0
+CardInGame0_008=4898	//	強奪
+CardInGame0_008_Face=0
+CardInHand0=5
+CardInHand0_000=7351	//	ファントム・オブ・カオス
+CardInHand0_001=6437	//	シエンの間者
+CardInHand0_002=5162	//	強制転移
+CardInHand0_003=6542	//	地獄の暴走召喚
+CardInHand0_004=5906	//	次元融合
+CardInDeck0=1
+CardInDeck0_000=6341	//	ワイトキング
+CardInFusion0=0
+CardInGrave0=6
+CardInGrave0_000=6772	//	Ｎ・ブラック・パンサー
+CardInGrave0_001=6772	//	Ｎ・ブラック・パンサー
+CardInGrave0_002=6772	//	Ｎ・ブラック・パンサー
+CardInGrave0_003=6341	//	ワイトキング
+CardInGrave0_004=6341	//	ワイトキング
+CardInGrave0_005=6613	//	終焉の王デミス
+CardInExclude0=0
+[Player1]
+PlayerLP1=9000
+CardInGame1_002=6000	//	マシュマロン
+CardInGame1_002_Face=0
+CardInGame1_002_Turn=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

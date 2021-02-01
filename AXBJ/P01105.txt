@@ -1,0 +1,62 @@
+ORDER 0
+
+SOUND V_RAND_J
+
+VOICE V_RAND_S
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_JRC_S
+CONDI "tag like '%*0%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%baM3bara%'" "random" 0
+
+VOICE V_RAND_E

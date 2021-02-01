@@ -1,0 +1,62 @@
+ORDER 0
+
+SOUND V_GAME_J
+
+VOICE V_GAME_S
+CONDI "tag like '%geM3mu%'" "random" 0
+
+SOUND V_JRC_J
+CONDI "tag like '%*0%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "tag like '%geM3mu%'" "random" 0
+
+VOICE V_GAME_E

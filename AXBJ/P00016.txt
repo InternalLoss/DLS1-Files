@@ -1,0 +1,59 @@
+ORDER 0
+
+SOUND V_IDOL_J
+
+VOICE V_IDOL_S
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xaxidoru%'" "random" 0
+
+VOICE V_IDOL_E

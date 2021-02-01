@@ -1,0 +1,55 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=4200
+CardInGame0_001=5091	//	暗黒魔族ギルファー・デーモン
+CardInGame0_001_Face=1
+CardInGame0_001_Turn=0
+CardInGame0_002=5814	//	ビッグ・コアラ
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=4924	//	シャインエンジェル
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_004=4507	//	人喰い虫
+CardInGame0_004_Face=0
+CardInGame0_004_Turn=1
+CardInHand0=3
+CardInHand0_000=5724	//	蝶の短剣－エルマ
+CardInHand0_001=4317	//	黒いペンダント
+CardInHand0_002=6209	//	与奪の首飾り
+CardInDeck0=4
+CardInDeck0_000=6274	//	百獣大行進
+CardInDeck0_002=5811	//	おジャマ・イエロー
+CardInFusion0=0
+CardInGrave0=3
+CardInGrave0_000=6380	//	森の番人グリーン・バブーン
+CardInGrave0_001=6380	//	森の番人グリーン・バブーン
+CardInGrave0_002=6380	//	森の番人グリーン・バブーン
+CardInExclude0=0
+[Player1]
+PlayerLP1=11200
+CardInGame1_001=4921	//	ジャイアントウィルス
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=0
+CardInGame1_002=4769	//	寄生虫パラサイド
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=1
+CardInGame1_003=4007	//	青眼の白龍
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInGame1_007=5386	//	明鏡止水の心
+CardInGame1_007_Face=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+EquipAct000_Type=EQUIPMENT
+EquipAct000_DstPlayer=1
+EquipAct000_DstLocate=2
+EquipAct000_SrcPlayer=1
+EquipAct000_SrcLocate=7
+[END]

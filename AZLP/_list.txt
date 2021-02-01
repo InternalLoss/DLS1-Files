@@ -1,0 +1,14 @@
+download_list.bin		List			4228
+AddQuery.bin		Query		1	48688
+Brand17.bin		Brand	17	1	9848
+Brand18.bin		Brand	18	1	10180
+DownloadItem07101.bin		Item	7101	1	19383
+DownloadItem07102.bin		Item	7102	1	11901
+DownloadItem07103.bin		Item	7103	1	26389
+DownloadItem07104.bin		Item	7104	1	8336
+DownloadItem07105.bin		Item	7105	1	27972
+DownloadItem07106.bin		Item	7106	1	20177
+DownloadItem07107.bin		Item	7107	1	29806
+DownloadItem07108.bin		Item	7108	1	30028
+DownloadItem07109.bin		Item	7109	1	6908
+DownloadItem07110.bin		Item	7110	1	12779

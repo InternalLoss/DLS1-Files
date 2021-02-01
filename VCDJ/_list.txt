@@ -1,0 +1,12 @@
+qn01.txt					2
+qn02.txt					2
+qn03.txt					2
+qn04.txt					2
+qn05.txt					2
+qn06.txt					2
+qn07.txt					2
+qn08.txt					2
+qn09.txt					2
+qn10.txt					2
+qn11.txt					2
+qn12.txt					2

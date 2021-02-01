@@ -1,0 +1,2 @@
+cmail20070902.dat	SwBPAE4AQQBNAEkAXwBCAEUAUwBUAA**	cmail		release	264
+kmail20070902.dat	SwBPAE4AQQBNAEkAXwBCAEUAUwBUAA**	kmail		release	272

@@ -1,0 +1,59 @@
+ORDER 0
+
+SOUND V_ARTI_J
+
+VOICE V_ARTI_S
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "artist_name like '%F0L0@OW0%'" "random" 0
+
+VOICE V_ARTI_E

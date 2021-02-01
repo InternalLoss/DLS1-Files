@@ -1,0 +1,6 @@
+dl_all.bin		SpecData			1824
+ZSR18_2.IPF		PlaneData			79872
+SUNYA_2.IPF		PlaneData			79872
+YZXNA_2.IPF		PlaneData			79872
+MZ439_2.IPF		PlaneData			79872
+ADAM1_2.IPF		PlaneData			79872

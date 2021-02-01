@@ -1,0 +1,12 @@
+item00.dat					2
+item01.dat					2
+item02.dat					2
+item03.dat					2
+item04.dat					2
+item05.dat					2
+item06.dat					2
+item07.dat					2
+item08.dat					2
+item09.dat					2
+item10.dat					2
+item11.dat					2

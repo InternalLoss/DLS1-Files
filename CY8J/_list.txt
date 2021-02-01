@@ -1,0 +1,47 @@
+card01.ydl					128
+card02.ydl					128
+card03.ydl					128
+card04.ydl					128
+card05.ydl					128
+card06.ydl					128
+card07.ydl					128
+card08.ydl					128
+card09.ydl					128
+card10.ydl					128
+card11.ydl					128
+card12.ydl					128
+dimg00.ydl	MQA0ADYA				346
+dimg01.ydl	MQA0ADUA				346
+dimg02.ydl	MQA0ADcA				346
+dimg03.ydl	MQAzADAA				346
+dimg04.ydl	MQA0ADkA				346
+dimg05.ydl	MQA1ADAA				346
+dimg06.ydl	MQA1ADEA				346
+dimg07.ydl	MQA1ADIA				346
+dimg08.ydl	MQA1ADMA				346
+dimg09.ydl	MQA1ADQA				346
+dimg10.ydl	MQA1ADUA				346
+dimg11.ydl	MQA1ADYA				346
+dimg12.ydl	MgA1ADUA				346
+dimg13.ydl	MgA1ADQA				346
+dimg14.ydl	MgA1ADMA				346
+ques00.ydl	MQA*				523
+ques01.ydl	MgA*				494
+ques02.ydl	MwA*				765
+ques03.ydl	NAA*				795
+ques04.ydl	NQA*				802
+ques05.ydl	NgA*				633
+ques06.ydl	NwA*				618
+ques07.ydl	OAA*				652
+ques08.ydl	OQA*				640
+ques09.ydl	MQAwAA**				755
+ques10.ydl	MQAxAA**				802
+ques11.ydl	MQAyAA**				678
+list01.ydl	MQA3AA**				258
+list02.ydl	MQA4AA**				272
+list04.ydl	MQA5AA**				292
+list03.ydl	NQA5AA**				382
+news00.ydl		J			353
+news01.ydl		N			353
+news02.ydl		E			353
+news03.ydl		K			233

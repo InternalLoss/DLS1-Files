@@ -1,0 +1,51 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=100
+CardInGame0_002=4041	//	ブラック・マジシャン
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=6150	//	ＴＨＥ　トリッキー
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_007=5234	//	アポピスの化神
+CardInGame0_007_Face=0
+CardInHand0=6
+CardInHand0_000=5907	//	光と闇の洗礼
+CardInHand0_001=4041	//	ブラック・マジシャン
+CardInHand0_002=6150	//	ＴＨＥ　トリッキー
+CardInHand0_003=6705	//	光神化
+CardInHand0_004=5023	//	天空騎士パーシアス
+CardInHand0_005=5432	//	月の書
+CardInDeck0=2
+CardInDeck0_000=5880	//	混沌の黒魔術師
+CardInDeck0_001=5118	//	融合解除
+CardInFusion0=0
+CardInGrave0=1
+CardInGrave0_000=5880	//	混沌の黒魔術師
+CardInExclude0=0
+[Player1]
+PlayerLP1=3350
+CardInGame1_000=4758	//	人造人間－サイコ・ショッカー
+CardInGame1_000_Face=1
+CardInGame1_000_Turn=0
+CardInGame1_001=5301	//	冥界の魔王　ハ・デス
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=0
+CardInGame1_002=6127	//	マスター・オブ・ＯＺ
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=5301	//	冥界の魔王　ハ・デス
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInGame1_004=4538	//	ヂェミナイ・エルフ
+CardInGame1_004_Face=1
+CardInGame1_004_Turn=0
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

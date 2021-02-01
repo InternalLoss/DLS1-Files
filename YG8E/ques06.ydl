@@ -1,0 +1,41 @@
+[DUEL QUESTION]
+Level=5
+Phase=MAIN1
+[Player0]
+PlayerLP0=100
+CardInGame0_007=4989	//	リビングデッドの呼び声
+CardInGame0_007_Face=0
+CardInHand0=4
+CardInHand0_000=6939	//	カードガンナー
+CardInHand0_001=7217	//	サイバーダーク・インパクト！
+CardInHand0_002=4909	//	サイクロン
+CardInHand0_003=6782	//	未来融合－フューチャー・フュージョン
+CardInDeck0=8
+CardInDeck0_000=6540	//	アームド・ドラゴン　ＬＶ１０
+CardInDeck0_001=6832	//	サイバー・ダーク・キール
+CardInDeck0_002=6830	//	サイバー・ダーク・ホーン
+CardInDeck0_003=6944	//	ヘル・ドラゴン
+CardInDeck0_004=6831	//	サイバー・ダーク・エッジ
+CardInDeck0_005=4007	//	青眼の白龍
+CardInDeck0_006=7244	//	フェルグラントドラゴン
+CardInDeck0_007=6821	//	光と闇の竜
+CardInFusion0=2
+CardInFusion0_000=6833	//	鎧黒竜－サイバー・ダーク・ドラゴン
+CardInFusion0_001=5502	//	Ｆ・Ｇ・Ｄ
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=3400
+CardInGame1_002=4386	//	青眼の究極竜
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=4007	//	青眼の白龍
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

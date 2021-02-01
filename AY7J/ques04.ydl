@@ -1,0 +1,62 @@
+[DUEL QUESTION]
+Level=6
+Phase=Main
+[Player0]
+PlayerLP0=400
+CardInGame0_002=4546	//	スケルエンジェル
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=5509	//	墓守の偵察者
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_007=4989	//	リビングデッドの呼び声
+CardInGame0_007_Face=0
+CardInGame0_008=5729	//	閃光の双剣－トライス
+CardInGame0_008_Face=1
+CardInHand0=5
+CardInHand0_000=6050	//	リバースソウル
+CardInHand0_001=4844	//	強欲な壺
+CardInHand0_002=4039	//	ジャッジ・マン
+CardInHand0_003=4905	//	突進
+CardInHand0_004=4888	//	磁力の指輪
+CardInDeck0=13
+CardInDeck0_000=5432	//	月の書
+CardInDeck0_001=4368	//	千年の盾
+CardInDeck0_002=5512	//	墓守の長槍兵
+CardInDeck0_003=5512	//	墓守の長槍兵
+CardInDeck0_004=4030	//	ワイト
+CardInDeck0_005=4030	//	ワイト
+CardInDeck0_006=4904	//	移り気な仕立屋
+CardInDeck0_007=5432	//	月の書
+CardInDeck0_008=4030	//	ワイト
+CardInDeck0_009=5715	//	闇より出でし絶望
+CardInDeck0_010=4007	//	青眼の白龍
+CardInDeck0_011=5715	//	闇より出でし絶望
+CardInDeck0_012=5715	//	闇より出でし絶望
+CardInFusion0=0
+CardInGrave0=1
+CardInGrave0_000=4046	//	壺魔人
+CardInExclude0=0
+[Player1]
+PlayerLP1=9600
+CardInGame1_001=5526	//	魂を削る死霊
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=1
+CardInGame1_002=4568	//	ニードルワーム
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=1
+CardInGame1_003=4529	//	悪魔の調理師
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+EquipAct000_Type=EQUIPMENT
+EquipAct000_DstPlayer=0
+EquipAct000_DstLocate=2
+EquipAct000_SrcPlayer=0
+EquipAct000_SrcLocate=8
+[END]

@@ -1,0 +1,60 @@
+[DUEL QUESTION]
+Level=6
+Phase=Main
+[Player0]
+PlayerLP0=100
+CardInGame0_000=4071	//	シルバー・フォング
+CardInGame0_000_Face=1
+CardInGame0_000_Turn=0
+CardInGame0_001=4067	//	オオカミ
+CardInGame0_001_Face=1
+CardInGame0_001_Turn=0
+CardInGame0_002=4790	//	サイバティック・ワイバーン
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=4041	//	ブラック・マジシャン
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_004=4040	//	闇・道化師のサギー
+CardInGame0_004_Face=1
+CardInGame0_004_Turn=0
+CardInGame0_007=6225	//	魔力浄化
+CardInGame0_007_Face=0
+CardInHand0=7
+CardInHand0_000=5603	//	降格処分
+CardInHand0_001=6346	//	受け継がれる力
+CardInHand0_002=4374	//	シャドウ・グール
+CardInHand0_003=6048	//	魂喰らいの魔刀
+CardInHand0_004=5213	//	魔導師の力
+CardInHand0_005=4739	//	千眼の邪教神
+CardInHand0_006=5166	//	千本ナイフ
+CardInDeck0=0
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=7750
+CardInGame1_000=5811	//	おジャマ・イエロー
+CardInGame1_000_Face=1
+CardInGame1_000_Turn=1
+CardInGame1_001=5812	//	おジャマ・ブラック
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=1
+CardInGame1_002=5761	//	おジャマ・グリーン
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=1
+CardInGame1_003=4380	//	ゲート・ガーディアン
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInGame1_004=4008	//	ホーリー・エルフ
+CardInGame1_004_Face=1
+CardInGame1_004_Turn=1
+CardInGame1_007=5225	//	暗黒の扉
+CardInGame1_007_Face=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

@@ -1,0 +1,51 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=1500
+CardInGame0_006=4966	//	‘‚·‚¬‚½–„‘’
+CardInGame0_006_Face=0
+CardInGame0_007=5627	//	ÅI“ËŒ‚–½—ß
+CardInGame0_007_Face=0
+CardInGame0_008=5935	//	€—ìƒ][ƒ}
+CardInGame0_008_Face=0
+CardInHand0=4
+CardInHand0_000=6542	//	’n–‚Ì–\‘–¢Š«
+CardInHand0_001=4351	//	‰Î‚ ‚Ô‚è‚ÌŒY
+CardInHand0_002=5431	//	‘¾—z‚Ì‘
+CardInHand0_003=5898	//	•sˆÓ‘Å‚¿–”²
+CardInDeck0=6
+CardInDeck0_000=4937	//	ƒ_[ƒNƒ][ƒ“
+CardInDeck0_001=5350	//	”ñíH
+CardInDeck0_002=5327	//	˜A‡ŒR
+CardInDeck0_003=5212	//	’cŒ‹‚Ì—Í
+CardInDeck0_004=5213	//	–‚“±t‚Ì—Í
+CardInDeck0_005=5355	//	ûk
+CardInFusion0=0
+CardInGrave0=3
+CardInGrave0_000=7095	//	‚c|‚g‚d‚q‚n@ƒfƒBƒXƒNƒKƒC
+CardInGrave0_001=7095	//	‚c|‚g‚d‚q‚n@ƒfƒBƒXƒNƒKƒC
+CardInGrave0_002=7095	//	‚c|‚g‚d‚q‚n@ƒfƒBƒXƒNƒKƒC
+CardInExclude0=0
+[Player1]
+PlayerLP1=25000
+CardInGame1_001=5501	//	‹†‹É—³‹Rm
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=0
+CardInGame1_002=5244	//	–|˜M‚·‚éƒGƒ‹ƒt‚ÌŒ•m
+CardInGame1_002_Face=0
+CardInGame1_002_Turn=1
+CardInGame1_003=6118	//	‰¼–Ê—³
+CardInGame1_003_Face=0
+CardInGame1_003_Turn=1
+CardInHand1=0
+CardInDeck1=4
+CardInDeck1_000=5244	//	–|˜M‚·‚éƒGƒ‹ƒt‚ÌŒ•m
+CardInDeck1_001=5244	//	–|˜M‚·‚éƒGƒ‹ƒt‚ÌŒ•m
+CardInDeck1_002=6118	//	‰¼–Ê—³
+CardInDeck1_003=6118	//	‰¼–Ê—³
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

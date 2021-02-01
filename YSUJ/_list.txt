@@ -1,0 +1,10 @@
+sudoku3_dlpack_00.bin					1640
+sudoku3_dlpack_01.bin					1640
+sudoku3_dlpack_02.bin					1640
+sudoku3_dlpack_03.bin					1640
+sudoku3_dlpack_04.bin					1640
+sudoku3_dlpack_05.bin					1640
+sudoku3_dlpack_06.bin					1640
+sudoku3_dlpack_07.bin					1640
+sudoku3_dlpack_08.bin					1640
+sudoku3_dlpack_09.bin					1640

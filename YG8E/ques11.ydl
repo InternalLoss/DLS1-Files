@@ -1,0 +1,48 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=500
+CardInGame0_002=4434	//	聖なる魔術師
+CardInGame0_002_Face=0
+CardInGame0_002_Turn=1
+CardInGame0_006=5629	//	二重魔法
+CardInGame0_006_Face=0
+CardInGame0_007=5620	//	仕込みマシンガン
+CardInGame0_007_Face=0
+CardInGame0_008=5544	//	サンダー・ブレイク
+CardInGame0_008_Face=0
+CardInHand0=7
+CardInHand0_000=4352	//	昼夜の大火事
+CardInHand0_001=5669	//	ビッグバン・シュート
+CardInHand0_002=4907	//	強引な番兵
+CardInHand0_003=7219	//	二重召喚
+CardInHand0_004=4817	//	精神操作
+CardInHand0_005=7202	//	魔族召喚師
+CardInHand0_006=7258	//	Ｅ－ＨＥＲＯ　マリシャス・エッジ
+CardInDeck0=0
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=9000
+CardInGame1_001=5651	//	執念深き老魔術師
+CardInGame1_001_Face=0
+CardInGame1_001_Turn=1
+CardInGame1_002=5651	//	執念深き老魔術師
+CardInGame1_002_Face=0
+CardInGame1_002_Turn=1
+CardInGame1_003=5651	//	執念深き老魔術師
+CardInGame1_003_Face=0
+CardInGame1_003_Turn=1
+CardInHand1=2
+CardInHand1_000=4064	//	クリボー
+CardInHand1_001=6558	//	冥府の使者ゴーズ
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=2
+CardInGrave1_000=6346	//	受け継がれる力
+CardInGrave1_001=6214	//	城壁壊しの大槍
+CardInExclude1=0
+[Equipment]
+[END]

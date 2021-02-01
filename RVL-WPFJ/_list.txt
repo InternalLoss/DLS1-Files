@@ -1,0 +1,9 @@
+wpaj_mail00.dat	YxFiJnK2				49
+wpaj_mail01.dat	YxFiJnK2				49
+wpaj_mail02.dat	YxFiJnK2				49
+wpfj_mail00.dat	YxFiJnK2				49
+wpfj_mail01.dat	YxFiJnK2				49
+wpfj_mail02.dat	YxFiJnK2				49
+wphj_mail00.dat	YxFiJnK2				49
+wphj_mail01.dat	YxFiJnK2				49
+wphj_mail02.dat	YxFiJnK2				49

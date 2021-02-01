@@ -1,0 +1,57 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=9000
+CardInGame0_001=6201	//	魔装機関車　デコイチ
+CardInGame0_001_Face=0
+CardInGame0_001_Turn=1
+CardInGame0_002=4177	//	大王目玉
+CardInGame0_002_Face=0
+CardInGame0_002_Turn=1
+CardInGame0_003=5663	//	魔導雑貨商人
+CardInGame0_003_Face=0
+CardInGame0_003_Turn=1
+CardInGame0_006=5544	//	サンダー・ブレイク
+CardInGame0_006_Face=0
+CardInGame0_007=7010	//	転生の予言
+CardInGame0_007_Face=0
+CardInGame0_008=5210	//	強欲な瓶
+CardInGame0_008_Face=0
+CardInHand0=3
+CardInHand0_000=6324	//	メガロック・ドラゴン
+CardInHand0_001=4844	//	強欲な壺
+CardInHand0_002=5539	//	突然変異
+CardInDeck0=5
+CardInDeck0_000=4522	//	ムカムカ
+CardInDeck0_001=4763	//	磁石の戦士β
+CardInDeck0_002=6239	//	地帝グランマーグ
+CardInDeck0_003=6770	//	Ｎ・グラン・モール
+CardInDeck0_004=5432	//	月の書
+CardInFusion0=3
+CardInFusion0_000=6856	//	サイバー・オーガ・２
+CardInFusion0_001=6485	//	サイバー・ブレイダー
+CardInFusion0_002=6265	//	竜魔人　キングドラグーン
+CardInGrave0=1
+CardInGrave0_000=5333	//	タイラント・ドラゴン
+CardInExclude0=0
+[Player1]
+PlayerLP1=9000
+CardInGame1_001=4080	//	岩石の巨兵
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=0
+CardInGame1_002=5247	//	昇霊術師　ジョウゲン
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=1
+CardInGame1_003=5002	//	磁石の戦士マグネット・バルキリオン
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInGame1_007=5134	//	グラヴィティ・バインド－超重力の網－
+CardInGame1_007_Face=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

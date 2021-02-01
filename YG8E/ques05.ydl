@@ -1,0 +1,53 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=4000
+CardInGame0_001=5898	//	不意打ち又佐
+CardInGame0_001_Face=1
+CardInGame0_001_Turn=0
+CardInGame0_002=4772	//	代打バッター
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=7199	//	ヴァリュアブル・アーマー
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_006=5917	//	暗黒の呪縛
+CardInGame0_006_Face=1
+CardInGame0_007=5857	//	重力解除
+CardInGame0_007_Face=0
+CardInGame0_008=5738	//	おジャマトリオ
+CardInGame0_008_Face=0
+CardInHand0=6
+CardInHand0_000=7341	//	炎妖蝶ウィルプス
+CardInHand0_001=4963	//	抹殺の使徒
+CardInHand0_002=4905	//	突進
+CardInHand0_003=7199	//	ヴァリュアブル・アーマー
+CardInHand0_004=5669	//	ビッグバン・シュート
+CardInHand0_005=4856	//	死者への手向け
+CardInDeck0=0
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=20000
+CardInGame1_001=7206	//	グラビティ・ボール
+CardInGame1_001_Face=0
+CardInGame1_001_Turn=1
+CardInGame1_002=7206	//	グラビティ・ボール
+CardInGame1_002_Face=0
+CardInGame1_002_Turn=1
+CardInGame1_003=7206	//	グラビティ・ボール
+CardInGame1_003_Face=0
+CardInGame1_003_Turn=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+EquipAct000_Type=FOREVER
+EquipAct000_DstPlayer=1
+EquipAct000_DstLocate=0
+EquipAct000_SrcCard=0	//	
+[END]

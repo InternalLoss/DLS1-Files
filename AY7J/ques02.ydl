@@ -1,0 +1,48 @@
+[DUEL QUESTION]
+Level=6
+Phase=Main
+[Player0]
+PlayerLP0=2900
+CardInGame0_001=4608	//	ペンギン・ソルジャー
+CardInGame0_001_Face=0
+CardInGame0_001_Turn=1
+CardInGame0_002=5661	//	デス・コアラ
+CardInGame0_002_Face=0
+CardInGame0_002_Turn=1
+CardInGame0_003=6189	//	逆巻く炎の精霊
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_007=4856	//	死者への手向け
+CardInGame0_007_Face=0
+CardInHand0=3
+CardInHand0_000=5831	//	ギガンテス
+CardInHand0_001=7092	//	邪神イレイザー
+CardInHand0_002=4299	//	伝説の剣豪ＭＡＳＡＫＩ
+CardInDeck0=0
+CardInFusion0=0
+CardInGrave0=1
+CardInGrave0_000=6380	//	森の番人グリーン・バブーン
+CardInExclude0=0
+[Player1]
+PlayerLP1=4000
+CardInGame1_001=6100	//	ホルスの黒炎竜　ＬＶ８
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=0
+CardInGame1_002=6540	//	アームド・ドラゴン　ＬＶ１０
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=4718	//	メテオ・ドラゴン
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=1
+CardInGame1_004=6960	//	ジェネティック・ワーウルフ
+CardInGame1_004_Face=1
+CardInGame1_004_Turn=0
+CardInGame1_007=4961	//	死霊の誘い
+CardInGame1_007_Face=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

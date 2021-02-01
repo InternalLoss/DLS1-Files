@@ -1,0 +1,66 @@
+[DUEL QUESTION]
+Level=5
+Phase=MAIN1
+[Player0]
+PlayerLP0=3000
+CardInGame0_001=7103	//	ヴォルカニック・エッジ
+CardInGame0_001_Face=1
+CardInGame0_001_Turn=0
+CardInGame0_002=7085	//	ヴォルカニック・デビル
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=7104	//	ヴォルカニック・ハンマー
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_005=5210	//	強欲な瓶
+CardInGame0_005_Face=0
+CardInGame0_006=7131	//	ヴォルカニック・チャージ
+CardInGame0_006_Face=0
+CardInGame0_007=7088	//	ブレイズ・キャノン－トライデント
+CardInGame0_007_Face=1
+CardInGame0_008=7131	//	ヴォルカニック・チャージ
+CardInGame0_008_Face=0
+CardInGame0_009=4812	//	天使の施し
+CardInGame0_009_Face=0
+CardInHand0=3
+CardInHand0_000=7087	//	ファイヤー・ソウル
+CardInHand0_001=7083	//	ヴォルカニック・バックショット
+CardInHand0_002=7083	//	ヴォルカニック・バックショット
+CardInDeck0=4
+CardInDeck0_000=7082	//	ヴォルカニック・バレット
+CardInDeck0_001=6212	//	振り出し
+CardInDeck0_002=4349	//	火の粉
+CardInDeck0_003=7083	//	ヴォルカニック・バックショット
+CardInFusion0=0
+CardInGrave0=3
+CardInGrave0_000=7082	//	ヴォルカニック・バレット
+CardInGrave0_001=7082	//	ヴォルカニック・バレット
+CardInGrave0_002=7086	//	ブレイズ・キャノン
+CardInExclude0=0
+[Player1]
+PlayerLP1=8300
+CardInGame1_000=6000	//	マシュマロン
+CardInGame1_000_Face=1
+CardInGame1_000_Turn=0
+CardInGame1_001=6654	//	ダンディライオン
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=1
+CardInGame1_002=6654	//	ダンディライオン
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=1
+CardInGame1_003=6654	//	ダンディライオン
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=1
+CardInGame1_004=6000	//	マシュマロン
+CardInGame1_004_Face=1
+CardInGame1_004_Turn=0
+CardInGame1_007=5006	//	アクアの合唱
+CardInGame1_007_Face=1
+CardInHand1=0
+CardInDeck1=1
+CardInDeck1_000=4007	//	青眼の白龍
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

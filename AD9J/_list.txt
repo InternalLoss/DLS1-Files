@@ -1,0 +1,2 @@
+bullet50.skill		bullet	49	normal	1
+bullet51.skill		bullet	50	normal	1

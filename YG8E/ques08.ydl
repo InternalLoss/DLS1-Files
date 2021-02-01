@@ -1,0 +1,52 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=12000
+CardInGame0_002=5504	//	Ｘ－ヘッド・キャノン
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=4434	//	聖なる魔術師
+CardInGame0_003_Face=0
+CardInGame0_003_Turn=1
+CardInGame0_007=5630	//	魔法吸収
+CardInGame0_007_Face=1
+CardInHand0=5
+CardInHand0_000=7117	//	風帝ライザー
+CardInHand0_001=4663	//	巨大化
+CardInHand0_002=4966	//	早すぎた埋葬
+CardInHand0_003=4909	//	サイクロン
+CardInHand0_004=5729	//	閃光の双剣－トライス
+CardInDeck0=0
+CardInFusion0=0
+CardInGrave0=3
+CardInGrave0_000=5031	//	お注射天使リリー
+CardInGrave0_001=6999	//	ツイスター
+CardInGrave0_002=4891	//	大嵐
+CardInExclude0=0
+[Player1]
+PlayerLP1=800
+CardInGame1_001=5526	//	魂を削る死霊
+CardInGame1_001_Face=0
+CardInGame1_001_Turn=1
+CardInGame1_002=6170	//	サイレント・マジシャン　ＬＶ８
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=6000	//	マシュマロン
+CardInGame1_003_Face=0
+CardInGame1_003_Turn=1
+CardInGame1_007=7127	//	フィールドバリア
+CardInGame1_007_Face=1
+CardInGame1_010=4936	//	シャインスパーク
+CardInGame1_010_Face=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+EquipAct000_Type=FOREVER
+EquipAct000_DstPlayer=1
+EquipAct000_DstLocate=0
+EquipAct000_SrcCard=0	//	
+[END]

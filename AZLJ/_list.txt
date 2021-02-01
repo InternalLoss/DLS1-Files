@@ -1,0 +1,26 @@
+download_list.bin		List			1108
+AddQuery.bin		Query		4	48728
+Brand18.bin		Brand	18	1	23208
+Brand19.bin		Brand	19	1	17136
+Brand20.bin		Brand	20	1	11780
+Brand21.bin		Brand	21	1	15304
+DownloadItem07007.bin		Item	7007	1	16623
+DownloadItem07008.bin		Item	7008	1	5509
+DownloadItem07009.bin		Item	7009	1	6725
+DownloadItem07010.bin		Item	7010	1	8188
+DownloadItem07011.bin		Item	7011	1	12892
+DownloadItem07012.bin		Item	7012	1	13565
+DownloadItem07013.bin		Item	7013	1	26108
+DownloadItem07014.bin		Item	7014	1	10100
+DownloadItem07015.bin		Item	7015	1	16879
+DownloadItem07016.bin		Item	7016	1	10091
+DownloadItem07017.bin		Item	7017	1	11486
+DownloadItem07018.bin		Item	7018	1	5488
+DownloadItem07019.bin		Item	7019	1	22091
+DownloadItem07020.bin		Item	7020	1	25624
+DownloadItem07021.bin		Item	7021	1	17573
+DownloadItem07022.bin		Item	7022	1	6193
+DownloadItem07023.bin		Item	7023	1	13970
+DownloadItem07024.bin		Item	7024	1	19154
+DownloadItem07025.bin		Item	7025	1	13000
+DownloadItem07026.bin		Item	7026	1	8556

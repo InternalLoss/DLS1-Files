@@ -1,0 +1,39 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=1000
+CardInGame0_007=5231	//	王家の神殿
+CardInGame0_007_Face=0
+CardInHand0=5
+CardInHand0_000=6660	//	Ｄ－ＨＥＲＯ　ダイヤモンドガイ
+CardInHand0_001=6658	//	Ｄ－ＨＥＲＯ　デビルガイ
+CardInHand0_002=6659	//	Ｄ－ＨＥＲＯ　ダイハードガイ
+CardInHand0_003=6950	//	デステニー・ドロー
+CardInHand0_004=6950	//	デステニー・ドロー
+CardInDeck0=10
+CardInDeck0_000=6762	//	Ｄ－スピリッツ
+CardInDeck0_001=6679	//	デステニー・シグナル
+CardInDeck0_002=6949	//	Ｄ－ＨＥＲＯ　ディアボリックガイ
+CardInDeck0_003=6677	//	デステニー・デストロイ
+CardInDeck0_004=4966	//	早すぎた埋葬
+CardInDeck0_005=6755	//	Ｄ－ＨＥＲＯ　ディフェンドガイ
+CardInDeck0_006=6949	//	Ｄ－ＨＥＲＯ　ディアボリックガイ
+CardInDeck0_007=7095	//	Ｄ－ＨＥＲＯ　ディスクガイ
+CardInDeck0_008=6659	//	Ｄ－ＨＥＲＯ　ダイハードガイ
+CardInDeck0_009=6753	//	Ｄ－ＨＥＲＯ　ダッシュガイ
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=4300
+CardInGame1_002=6393	//	Ｅ・ＨＥＲＯ　バブルマン
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

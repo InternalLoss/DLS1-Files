@@ -1,0 +1,59 @@
+ORDER 0
+
+SOUND V_NEW_J
+
+VOICE V_NEW_S
+CONDI "serialid > 0" "filestore.create_time DESC" 1
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 2
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 3
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 4
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 5
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 6
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 7
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 8
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 9
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 10
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 11
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 12
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 13
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 14
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 15
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 16
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 17
+
+VOICE V_NEW 20 V0501_0601 10 V_NIGHT 10 V_NORMAL 60
+CONDI "serialid > 0" "filestore.create_time DESC" 18
+
+VOICE V_NEW_E

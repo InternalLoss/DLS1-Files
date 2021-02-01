@@ -1,0 +1,17 @@
+ORDER 1
+
+SOUND V_WRANK_J
+
+VOICE V_WRANK04
+CONDI "serialid = 45234" "" 1
+
+VOICE V_WRANK03
+CONDI "serialid = 52622" "" 1
+
+VOICE V_WRANK02
+CONDI "serialid = 50861" "" 1
+
+VOICE V_WRANK01
+CONDI "serialid = 46344" "" 1
+
+VOICE V_WRANK_E

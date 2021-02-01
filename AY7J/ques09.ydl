@@ -1,0 +1,51 @@
+[DUEL QUESTION]
+Level=6
+Phase=Main
+[Player0]
+PlayerLP0=4700
+CardInGame0_001=7092	//	邪神イレイザー
+CardInGame0_001_Face=1
+CardInGame0_001_Turn=0
+CardInGame0_002=6405	//	邪神ドレッド・ルート
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=7091	//	邪神アバター
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_006=5917	//	暗黒の呪縛
+CardInGame0_006_Face=1
+CardInGame0_007=5311	//	死の演算盤
+CardInGame0_007_Face=1
+CardInGame0_008=5311	//	死の演算盤
+CardInGame0_008_Face=1
+CardInHand0=5
+CardInHand0_000=6342	//	大邪神　レシェフ
+CardInHand0_001=6351	//	大邪神の儀式
+CardInHand0_002=4803	//	洗脳－ブレイン・コントロール
+CardInHand0_003=5669	//	ビッグバン・シュート
+CardInHand0_004=6999	//	ツイスター
+CardInDeck0=0
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=13000
+CardInGame1_001=5502	//	Ｆ・Ｇ・Ｄ
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=1
+CardInGame1_002=4007	//	青眼の白龍
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=4223	//	ブラック・デーモンズ・ドラゴン
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInGame1_004=6816	//	超伝導恐獣
+CardInGame1_004_Face=1
+CardInGame1_004_Turn=0
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

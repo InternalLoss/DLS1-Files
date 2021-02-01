@@ -1,0 +1,55 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=8000
+CardInGame0_002=6201	//	魔装機関車　デコイチ
+CardInGame0_002_Face=0
+CardInGame0_002_Turn=1
+CardInGame0_003=4547	//	ハネハネ
+CardInGame0_003_Face=0
+CardInGame0_003_Turn=1
+CardInGame0_005=7078	//	宝玉獣　サファイア・ペガサス
+CardInGame0_005_Face=1
+CardInGame0_006=7072	//	宝玉獣　アンバー・マンモス
+CardInGame0_006_Face=1
+CardInGame0_007=7076	//	宝玉獣　トパーズ・タイガー
+CardInGame0_007_Face=1
+CardInGame0_008=7077	//	宝玉獣　コバルト・イーグル
+CardInGame0_008_Face=1
+CardInGame0_009=7074	//	宝玉獣　ルビー・カーバンクル
+CardInGame0_009_Face=1
+CardInGame0_010=7079	//	虹の古代都市－レインボー・ルイン
+CardInGame0_010_Face=1
+CardInHand0=5
+CardInHand0_000=6671	//	Ｈ－ヒートハート
+CardInHand0_001=5676	//	魔導書整理
+CardInHand0_002=5387	//	伝説の都　アトランティス
+CardInHand0_003=5871	//	ギガ・ガガギゴ
+CardInHand0_004=5927	//	アビス・ソルジャー
+CardInDeck0=4
+CardInDeck0_000=4856	//	死者への手向け
+CardInDeck0_001=4966	//	早すぎた埋葬
+CardInDeck0_002=5217	//	ライトニング・ボルテックス
+CardInDeck0_003=7075	//	宝玉獣　エメラルド・タートル
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=10000
+CardInGame1_001=7071	//	宝玉獣　アメジスト・キャット
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=1
+CardInGame1_002=7171	//	究極宝玉神　レインボー・ドラゴン
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=5651	//	執念深き老魔術師
+CardInGame1_003_Face=0
+CardInGame1_003_Turn=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

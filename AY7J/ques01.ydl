@@ -1,0 +1,36 @@
+[DUEL QUESTION]
+Level=6
+Phase=Main
+[Player0]
+PlayerLP0=600
+CardInGame0_002=5060	//	ヒューマノイド・スライム
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_007=4851	//	血の代償
+CardInGame0_007_Face=0
+CardInGame0_008=4989	//	リビングデッドの呼び声
+CardInGame0_008_Face=0
+CardInHand0=6
+CardInHand0_000=6961	//	フロストザウルス
+CardInHand0_001=7091	//	邪神アバター
+CardInHand0_002=4840	//	ブルー・ポーション
+CardInHand0_003=5318	//	切り込み隊長
+CardInHand0_004=5729	//	閃光の双剣－トライス
+CardInHand0_005=4604	//	リトル・キメラ
+CardInDeck0=0
+CardInFusion0=0
+CardInGrave0=1
+CardInGrave0_000=4219	//	アクア・マドール
+CardInExclude0=0
+[Player1]
+PlayerLP1=5400
+CardInGame1_002=5244	//	翻弄するエルフの剣士
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

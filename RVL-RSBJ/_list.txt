@@ -1,0 +1,8 @@
+s20180301_0.bin		setting			160
+s20180301_1.bin		setting			160
+s20180301_2.bin		setting			160
+s20180301_3.bin		setting			160
+d20180401_00.bin		deliv			108272
+d20180401_01.bin		deliv			108192
+d20180401_06.bin		deliv			105312
+d20180401_17.bin		deliv			1084896

@@ -1,0 +1,53 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=4000
+CardInGame0_006=6213	//	死者転生
+CardInGame0_006_Face=0
+CardInGame0_007=5544	//	サンダー・ブレイク
+CardInGame0_007_Face=0
+CardInGame0_008=4910	//	ハリケーン
+CardInGame0_008_Face=0
+CardInHand0=5
+CardInHand0_000=6044	//	沼地の魔神王
+CardInHand0_001=6432	//	ミラクル・フュージョン
+CardInHand0_002=6782	//	未来融合－フューチャー・フュージョン
+CardInHand0_003=6391	//	フレンドッグ
+CardInHand0_004=6432	//	ミラクル・フュージョン
+CardInDeck0=6
+CardInDeck0_000=6313	//	Ｅ・ＨＥＲＯ　スパークマン
+CardInDeck0_001=4837	//	融合
+CardInDeck0_002=6393	//	Ｅ・ＨＥＲＯ　バブルマン
+CardInDeck0_003=6312	//	Ｅ・ＨＥＲＯ　クレイマン
+CardInDeck0_004=6311	//	Ｅ・ＨＥＲＯ　バーストレディ
+CardInDeck0_005=6310	//	Ｅ・ＨＥＲＯ　フェザーマン
+CardInFusion0=6
+CardInFusion0_000=6639	//	Ｅ・ＨＥＲＯ　エリクシーラー
+CardInFusion0_001=6467	//	Ｅ・ＨＥＲＯ　シャイニング・フレア・ウィングマン
+CardInFusion0_002=6535	//	Ｅ・ＨＥＲＯ　スチーム・ヒーラー
+CardInFusion0_003=6487	//	Ｅ・ＨＥＲＯ　テンペスター
+CardInFusion0_004=6345	//	Ｅ・ＨＥＲＯ　サンダー・ジャイアント
+CardInFusion0_005=6344	//	Ｅ・ＨＥＲＯ　フレイム・ウィングマン
+CardInGrave0=2
+CardInGrave0_000=4028	//	デーモンの召喚
+CardInGrave0_001=6311	//	Ｅ・ＨＥＲＯ　バーストレディ
+CardInExclude0=0
+[Player1]
+PlayerLP1=4600
+CardInGame1_001=5094	//	仮面魔獣マスクド・ヘルレイザー
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=0
+CardInGame1_002=4006	//	青眼の白龍
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=5625	//	ＸＺ－キャタピラー・キャノン
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

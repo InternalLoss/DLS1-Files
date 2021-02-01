@@ -1,0 +1,53 @@
+[DUEL QUESTION]
+Level=6
+Phase=MAIN1
+[Player0]
+PlayerLP0=200
+CardInGame0_002=6798	//	暗黒プテラ
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_003=6427	//	ディノインフィニティ
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=0
+CardInGame0_006=4989	//	リビングデッドの呼び声
+CardInGame0_006_Face=0
+CardInGame0_007=5442	//	つり天井
+CardInGame0_007_Face=0
+CardInGame0_008=6818	//	生存本能
+CardInGame0_008_Face=0
+CardInHand0=3
+CardInHand0_000=5431	//	太陽の書
+CardInHand0_001=5350	//	非常食
+CardInHand0_002=6799	//	ベビケラサウルス
+CardInDeck0=3
+CardInDeck0_000=6776	//	暗黒ステゴ
+CardInDeck0_001=6799	//	ベビケラサウルス
+CardInDeck0_002=6796	//	セイバーザウルス
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=4000
+CardInGame1_001=5016	//	王虎ワンフー
+CardInGame1_001_Face=0
+CardInGame1_001_Turn=1
+CardInGame1_002=4006	//	青眼の白龍
+CardInGame1_002_Face=0
+CardInGame1_002_Turn=1
+CardInGame1_003=5888	//	ハイパーハンマーヘッド
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=0
+CardInGame1_007=4355	//	六芒星の呪縛
+CardInGame1_007_Face=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+EquipAct000_Type=PERMANENT
+EquipAct000_DstPlayer=0
+EquipAct000_DstLocate=2
+EquipAct000_SrcPlayer=1
+EquipAct000_SrcLocate=7
+[END]

@@ -1,0 +1,2 @@
+wifi_event_message_test.dat					604
+event_rule_test.dat					128

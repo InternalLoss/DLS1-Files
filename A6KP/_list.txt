@@ -1,0 +1,5 @@
+kkeur.txt					736
+kkspa.txt					716
+kkita.txt					700
+kkfra.txt					756
+kkduc.txt					682

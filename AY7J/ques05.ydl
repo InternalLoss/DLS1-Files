@@ -1,0 +1,54 @@
+[DUEL QUESTION]
+Level=6
+Phase=Main
+[Player0]
+PlayerLP0=10700
+CardInGame0_002=7052	//	ジェルエンデュオ
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=1
+CardInGame0_003=7052	//	ジェルエンデュオ
+CardInGame0_003_Face=1
+CardInGame0_003_Turn=1
+CardInGame0_006=4851	//	血の代償
+CardInGame0_006_Face=1
+CardInGame0_007=5005	//	破壊輪
+CardInGame0_007_Face=0
+CardInHand0=6
+CardInHand0_000=7046	//	天空勇士ネオパーシアス
+CardInHand0_001=7050	//	コーリング・ノヴァ
+CardInHand0_002=4909	//	サイクロン
+CardInHand0_003=4663	//	巨大化
+CardInHand0_004=6411	//	ソイツ
+CardInHand0_005=5847	//	サンダー・クラッシュ
+CardInDeck0=2
+CardInDeck0_000=5023	//	天空騎士パーシアス
+CardInDeck0_001=7050	//	コーリング・ノヴァ
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=13800
+CardInGame1_001=6695	//	閃光の追放者
+CardInGame1_001_Face=0
+CardInGame1_001_Turn=1
+CardInGame1_002=7046	//	天空勇士ネオパーシアス
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=4924	//	シャインエンジェル
+CardInGame1_003_Face=0
+CardInGame1_003_Turn=1
+CardInGame1_010=5982	//	天空の聖域
+CardInGame1_010_Face=1
+CardInHand1=0
+CardInDeck1=6
+CardInDeck1_000=4924	//	シャインエンジェル
+CardInDeck1_001=6018	//	もけもけ
+CardInDeck1_002=4924	//	シャインエンジェル
+CardInDeck1_003=6018	//	もけもけ
+CardInDeck1_004=6018	//	もけもけ
+CardInDeck1_005=6411	//	ソイツ
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

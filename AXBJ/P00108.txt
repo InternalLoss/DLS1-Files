@@ -1,0 +1,62 @@
+ORDER 0
+
+SOUND V_ANIME_J
+
+VOICE V_ANIME_S
+CONDI "tag like '%xanime%'" "random" 0
+
+SOUND V_JRC_J
+CONDI "tag like '%*0%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME 20 V0501_0601 10 V_NORMAL 70
+CONDI "tag like '%xanime%'" "random" 0
+
+VOICE V_ANIME_E

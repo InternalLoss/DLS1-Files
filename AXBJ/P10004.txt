@@ -1,0 +1,35 @@
+ORDER 1
+
+SOUND V_ARANK_J
+
+VOICE V_ARANK10
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 10
+
+VOICE V_WRANK09
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 9
+
+VOICE V_WRANK08
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 8
+
+VOICE V_WRANK07
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 7
+
+VOICE V_WRANK06
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 6
+
+VOICE V_WRANK05
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 5
+
+VOICE V_WRANK04
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 4
+
+VOICE V_WRANK03
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 3
+
+VOICE V_WRANK02
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 2
+
+VOICE V_WRANK01
+CONDI "serialid > 0" "filestore.downloads DESC, filestore.create_time DESC" 1
+
+VOICE V_ARANK_E

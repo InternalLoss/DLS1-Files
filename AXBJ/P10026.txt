@@ -1,0 +1,59 @@
+ORDER 0
+
+SOUND V_CLASS_J
+
+VOICE V_CLASS_S
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS 20 V_NORMAL 80
+CONDI "tag like '%kurasitUku%'" "random" 0
+
+VOICE V_CLASS_E

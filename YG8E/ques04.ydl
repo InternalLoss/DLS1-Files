@@ -1,0 +1,65 @@
+[DUEL QUESTION]
+Level=5
+Phase=MAIN1
+[Player0]
+PlayerLP0=1000
+CardInGame0_001=5555	//	Ｚ－メタル・キャタピラー
+CardInGame0_001_Face=1
+CardInGame0_001_Turn=0
+CardInGame0_002=5504	//	Ｘ－ヘッド・キャノン
+CardInGame0_002_Face=1
+CardInGame0_002_Turn=0
+CardInGame0_005=4839	//	はさみ撃ち
+CardInGame0_005_Face=0
+CardInGame0_006=6521	//	ゲットライド！
+CardInGame0_006_Face=0
+CardInGame0_007=6941	//	異次元からの埋葬
+CardInGame0_007_Face=0
+CardInGame0_008=6521	//	ゲットライド！
+CardInGame0_008_Face=0
+CardInGame0_009=5978	//	神秘の中華なべ
+CardInGame0_009_Face=0
+CardInHand0=5
+CardInHand0_000=5552	//	Ｙ－ドラゴン・ヘッド
+CardInHand0_001=6475	//	Ｗ－ウィング・カタパルト
+CardInHand0_002=5906	//	次元融合
+CardInHand0_003=5602	//	前線基地
+CardInHand0_004=7223	//	戦線復活の代償
+CardInDeck0=0
+CardInFusion0=6
+CardInFusion0_000=5553	//	ＸＹ－ドラゴン・キャノン
+CardInFusion0_001=5625	//	ＸＺ－キャタピラー・キャノン
+CardInFusion0_002=5626	//	ＹＺ－キャタピラー・ドラゴン
+CardInFusion0_003=5556	//	ＸＹＺ－ドラゴン・キャノン
+CardInFusion0_004=6483	//	ＶＷ－タイガー・カタパルト
+CardInFusion0_005=6484	//	ＶＷＸＹＺ－ドラゴン・カタパルトキャノン
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=3000
+CardInGame1_001=5526	//	魂を削る死霊
+CardInGame1_001_Face=0
+CardInGame1_001_Turn=1
+CardInGame1_002=6471	//	Ｖ－タイガー・ジェット
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=0
+CardInGame1_003=6000	//	マシュマロン
+CardInGame1_003_Face=0
+CardInGame1_003_Turn=1
+CardInGame1_005=4896	//	通行税
+CardInGame1_005_Face=1
+CardInGame1_006=5225	//	暗黒の扉
+CardInGame1_006_Face=1
+CardInGame1_007=5225	//	暗黒の扉
+CardInGame1_007_Face=1
+CardInGame1_008=5225	//	暗黒の扉
+CardInGame1_008_Face=1
+CardInGame1_009=5799	//	炸裂装甲
+CardInGame1_009_Face=0
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]

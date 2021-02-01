@@ -1,0 +1,53 @@
+[DUEL QUESTION]
+Level=5
+Phase=MAIN1
+[Player0]
+PlayerLP0=2000
+CardInGame0_002=6658	//	Ｄ－ＨＥＲＯ　デビルガイ
+CardInGame0_002_Face=1
+CardInGame0_005=4965	//	浅すぎた墓穴
+CardInGame0_005_Face=0
+CardInGame0_006=5544	//	サンダー・ブレイク
+CardInGame0_006_Face=0
+CardInGame0_007=4910	//	ハリケーン
+CardInGame0_007_Face=0
+CardInGame0_008=4966	//	早すぎた埋葬
+CardInGame0_008_Face=0
+CardInGame0_009=4660	//	サラマンドラ
+CardInGame0_009_Face=0
+CardInHand0=7
+CardInHand0_000=6951	//	オーバー・デステニー
+CardInHand0_001=7096	//	Ｄ－ＨＥＲＯ　Ｂｌｏｏ－Ｄ
+CardInHand0_002=6266	//	鳳凰神の羽根
+CardInHand0_003=5496	//	溶岩魔神ラヴァ・ゴーレム
+CardInHand0_004=6949	//	Ｄ－ＨＥＲＯ　ディアボリックガイ
+CardInHand0_005=5431	//	太陽の書
+CardInHand0_006=5432	//	月の書
+CardInDeck0=3
+CardInDeck0_000=7095	//	Ｄ－ＨＥＲＯ　ディスクガイ
+CardInDeck0_001=6949	//	Ｄ－ＨＥＲＯ　ディアボリックガイ
+CardInDeck0_002=6757	//	Ｄ－ＨＥＲＯ　ドグマガイ
+CardInFusion0=0
+CardInGrave0=0
+CardInExclude0=0
+[Player1]
+PlayerLP1=7100
+CardInGame1_000=4368	//	千年の盾
+CardInGame1_000_Face=1
+CardInGame1_000_Turn=1
+CardInGame1_001=4368	//	千年の盾
+CardInGame1_001_Face=1
+CardInGame1_001_Turn=1
+CardInGame1_002=4372	//	迷宮壁－ラビリンス・ウォール－
+CardInGame1_002_Face=1
+CardInGame1_002_Turn=1
+CardInGame1_003=4372	//	迷宮壁－ラビリンス・ウォール－
+CardInGame1_003_Face=1
+CardInGame1_003_Turn=1
+CardInHand1=0
+CardInDeck1=0
+CardInFusion1=0
+CardInGrave1=0
+CardInExclude1=0
+[Equipment]
+[END]
