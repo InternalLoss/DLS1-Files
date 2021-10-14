@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/supports-Nintendo%20DS-red)
 ![](https://img.shields.io/badge/supports-Nintendo%20Wii-blue)
 
-The DLS1 files hosted on Wiimmfi's primary DLS1 server.
+These files are hosted on my DLS1 server used by Wiimmfi - a mirror of this repository is [stored on GitLab](https://gitlab.com/internalloss/dls1-files)
 
 ## What can I do with these?
 If you run a server, you can put them on your server for use. I don't particularly care, as I don't own the files and I'm only sharing my collection for preservation purposes.
